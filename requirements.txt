@@ -2,4 +2,3 @@ torch
 roboflow
 ultralytics
 opencv-python
-libgl1
